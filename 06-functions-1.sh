@@ -1,21 +1,22 @@
-sample() {
-  echo "Sample function"
-}
+## Declare a function
+#sample() {
+#  echo "Sample function"
+#}
+#
+## Call the function
+#sample
 
-sample
-
-abc(){
-  echo "a= $a"
+abc() {
+  echo "a = $a"
   b=20
 }
 
 a=10
 abc
-echo "b= $b"
+echo "b = $b"
 
-
-# code in catalogue.sh
-a=10
-source common.sh
-sample
-echo b - $b
+## code in catalogue.sh
+#a=10
+#source common.sh
+#sample
+#echo b - $b
