@@ -13,7 +13,7 @@
 
 # Else if
 
-SCORE=75
+SCORE=45
 if [ $SCORE -ge 90 ]; then
   echo "Grade A"
 elif [ $SCORE -ge 70 ]; then
