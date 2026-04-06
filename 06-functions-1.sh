@@ -12,7 +12,7 @@ abc() {
 }
 
 a=10
-abc
+#abc
 echo "b = $b"
 
 ## code in catalogue.sh
