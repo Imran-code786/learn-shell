@@ -1,0 +1,3 @@
+sample() {
+  echo "Sample function"
+}
