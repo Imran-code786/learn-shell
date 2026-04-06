@@ -6,4 +6,4 @@ echo ${x}
 
 FRUITE=ORANGE
 
-echo "I like ${FRUITE}
+echo "I like ${FRUITE}"
