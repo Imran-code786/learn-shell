@@ -9,7 +9,7 @@ abc(){
   b=20
 }
 
-a=10
+#a=10
 abc
-echo "b= $b"
+#echo "b= $b"
 
