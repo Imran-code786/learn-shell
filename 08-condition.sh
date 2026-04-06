@@ -3,7 +3,7 @@
 #  echo "a is 10"
 #fi
 
-a=20
+a=21
 if [ $a -gt 20 ]; then
   echo "a is greater than 20"
 else
